@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TestLivre::testgetLivre":3,"TestLivre::testCreateEvaluation":4},"times":{"TestLivre::testgetLivre":0.032,"TestUtilisateur::testverifConnexion":0.026,"TestUtilisateur::testgetIdUtilisateur":0.01,"TestLivre::testCreateEvaluation":0.059}}
